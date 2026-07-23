@@ -126,3 +126,4 @@ Amostra 4: predito=0 | real=0
 Amostra 5: predito=4 | real=4
 
 Como podemos ver o modelo otimizado apresentou 100% de acerto nas amostras de validação isoladas, comprovando que a quantização agressiva para precisão de 8 bits atendeu aos requisitos do projeto sem deteriorar o poder de classificação da rede.
+
