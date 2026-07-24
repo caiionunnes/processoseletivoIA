@@ -107,9 +107,9 @@ Foi aplicada a técnica de Quantização de Faixa Dinâmica (Dynamic Range Quant
 
 Acurácia de validação final: 98.86%
 
-Tamanho do modelo original (model.h5): [733] KB
+Tamanho do modelo original (model.h5): [736] KB
 
-Tamanho do modelo otimizado (model.tflite): [68] KB
+Tamanho do modelo otimizado (model.tflite): [67] KB
 
 ### 5️⃣ Comentários Adicionais (Opcional)
 
